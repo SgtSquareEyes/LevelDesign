@@ -5994,3 +5994,40 @@ FPackageName: Skipped package /Game/LevelDesign/Salt has a valid, mounted, mount
 [2026.05.27-10.26.45:778][808]AssetCheck: /Game/LevelDesign/Testing_HLOD0_Instancing Validating asset
 [2026.05.27-10.26.45:778][808]LogContentValidation: Validated asset counts for 1 validators:
 [2026.05.27-10.26.45:778][808]LogContentValidation:   /Script/DataValidation.EditorValidator_Localization : 1
+[2026.05.27-10.27.24:636][189]LogDirectoryWatcher: A directory notification for 'C:/Users/keega/Documents/Gaea/Builds/leveldesignmap/007' was aborted.
+[2026.05.27-10.27.43:307][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2026.05.27-10.27.43:482][323]LogStall: Shutdown...
+[2026.05.27-10.27.43:490][323]LogStall: Shutdown complete.
+[2026.05.27-10.27.43:560][323]LogSlate: Window 'LevelDesign - Unreal Editor' being destroyed
+[2026.05.27-10.27.44:105][323]Cmd: QUIT_EDITOR
+[2026.05.27-10.27.44:105][324]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2026.05.27-10.27.44:163][324]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2026.05.27-10.27.44:172][324]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2026.05.27-10.27.44:172][324]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2026.05.27-10.27.44:214][324]LogWorld: UWorld::CleanupWorld for Testing, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-10.27.44:214][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-10.27.44:454][324]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2026.05.27-10.27.44:526][324]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2026.05.27-10.27.44:668][324]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-10.27.44:668][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-10.27.44:690][324]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-10.27.44:690][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-10.27.44:691][324]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2026.05.27-10.27.44:691][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2026.05.27-10.27.44:744][324]LogRuntimeTelemetry: Recording EnginePreExit events
+[2026.05.27-10.27.44:759][324]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2026.05.27-10.27.45:198][324]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2026.05.27-10.27.45:198][324]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2026.05.27-10.27.45:198][324]LogAudio: Display: Audio Device unregistered from world 'Testing'.
+[2026.05.27-10.27.45:198][324]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2026.05.27-10.27.45:198][324]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2026.05.27-10.27.45:202][324]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2026.05.27-10.27.45:219][324]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2026.05.27-10.27.45:219][324]LogAudio: Display: Audio Device Manager Shutdown
+[2026.05.27-10.27.45:251][324]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2026.05.27-10.27.45:255][324]LogExit: Preparing to exit.
+[2026.05.27-10.27.45:572][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2026.05.27-10.27.46:224][324]LogEditorDataStorage: Deinitializing
+[2026.05.27-10.27.47:316][324]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2026.05.27-10.27.47:911][324]LogExit: Editor shut down
+[2026.05.27-10.27.47:925][324]LogExit: Transaction tracking system shut down
